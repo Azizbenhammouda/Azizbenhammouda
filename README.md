@@ -2,7 +2,7 @@
 
 Computer Engineering Student
 
--  I write primarily in Go and TypeScript.
+-  I write primarily in Go.
 -  My interests lie in Cloud Computing, DevOps, and Infrastructure Engineering.
 -  I enjoy building reliable backend systems, developer tools, and automation.
 -  Currently deepening my knowledge of distributed systems and cloud-native technologies.
